@@ -1,0 +1,20 @@
+{
+  "name": "webezzcss",
+  "version": "1.0.0",
+  "description": "A simple CSS package",
+  "main": "css/style.css",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webezzlabs/webezzcss.git"
+  },
+  "keywords": ["css", "npm", "styles"],
+  "author": "Webezz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Webezzlabs/webezzcss/issues"
+  },
+  "homepage": "https://github.com/Webezzlabs/webezzcss#readme"
+}
