@@ -1193,7 +1193,7 @@
 }
 
 .banner-3 { 
-    background: url('snowflakes.png') #ff4757; 
+    background: #ff4757; 
     color: white; 
     text-align: center; 
     padding: 25px; 
@@ -1705,7 +1705,7 @@
   }
   /* Restaurant Footer */
   .footer-10 {
-      background: url('restaurant-bg.jpg') center/cover;
+      background: orange center/cover;
       position: relative;
       padding: 80px 0;
       color: #fff;
