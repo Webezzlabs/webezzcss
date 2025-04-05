@@ -2,7 +2,6 @@
   "name": "webezzcss",
   "version": "1.0.1",
   "description": "A simple CSS package",
-  "main": "css/style.css",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
   },
