@@ -1,6 +1,6 @@
 {
   "name": "webezzcss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple CSS package",
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
@@ -9,7 +9,13 @@
     "type": "git",
     "url": "git+https://github.com/Webezzlabs/webezzcss.git"
   },
-  "keywords": ["css", "npm", "styles", "web", "frontend"],
+  "keywords": [
+    "css",
+    "npm",
+    "styles",
+    "web",
+    "frontend"
+  ],
   "author": "Webezz",
   "license": "Apache-2.0",
   "bugs": {
