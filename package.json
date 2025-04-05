@@ -4,17 +4,24 @@
   "description": "A simple CSS package",
   "main": "css/style.css",
   "scripts": {
-    "test": "npm run test"
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Webezzlabs/webezzcss.git"
   },
-  "keywords": ["css", "npm", "styles"],
+  "keywords": ["css", "npm", "styles", "web", "frontend"],
   "author": "Webezz",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/Webezzlabs/webezzcss/issues"
   },
-  "homepage": "https://github.com/Webezzlabs/webezzcss#readme"
+  "homepage": "https://github.com/Webezzlabs/webezzcss#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "css/",
+    "LICENSE"
+  ]
 }
